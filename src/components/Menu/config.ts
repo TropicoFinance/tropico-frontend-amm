@@ -56,7 +56,7 @@ const config: MenuEntry[] = [
       },
       {
         label: "Blog",
-        href: "https://tropicofinance.medium.com/",
+        href: "https://medium.com/@tropicofinance",
       },
     ],
   },
